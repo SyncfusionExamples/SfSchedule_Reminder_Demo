@@ -1,2 +1,2 @@
-# SfSchedule_Reminder_Demo
-This sample illustrates about setting reminder and configuring reminder of an appointment
+# Wpf Scheduler - Setting Reminder for an appointment
+This sample illustrates about setting reminder and configuring reminder of an appointment in wpf scheduler
